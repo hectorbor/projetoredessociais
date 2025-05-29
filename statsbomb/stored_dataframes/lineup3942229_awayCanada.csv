@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+11187,Stephen Antunes Eustáquio,,7,Canada,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12365,Alphonso Davies,,19,Canada,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12770,Jonathan Osorio,,21,Canada,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '80:46', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+12779,Samuel Piette,,6,Canada,[],[]
+16120,Richie Laryea,,22,Canada,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '71:36', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+16459,Cyle Larin,,9,Canada,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '71:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+18639,Mathieu Choiniere,Mathieu Choinière,24,Canada,[],[]
+23363,Liam Millar,,23,Canada,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '61:46', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+23640,Jonathan David,,10,Canada,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+23758,Maxime Crépeau,,16,Canada,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+23760,Derek Cornelius,,13,Canada,"[{'time': '49:35', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': '75:14', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 5, 'position': 'Left Center Back', 'from': '75:26', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+23828,Kamal Miller,,4,Canada,[],[]
+25078,Thelonius Bair,Theo Bair,11,Canada,[],[]
+26152,Jacob Shaffelburg,,14,Canada,"[{'time': '35:13', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 1}]","[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '34:38', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 21, 'position': 'Left Wing', 'from': '35:50', 'to': '61:46', 'from_period': 1, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+35707,Joel Waterman,,5,Canada,[],[]
+36794,Dayne Tristan St. Clair,Dayne St. Clair,1,Canada,[],[]
+37027,Thomas McGill,Tom McGill,18,Canada,[],[]
+44703,Alistair Johnston,,2,Canada,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '43:09', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 2, 'position': 'Right Back', 'from': '43:52', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+133189,Luc Rollet De Fougerolles,,3,Canada,[],[]
+133229,Ismael Koné,,8,Canada,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '80:46', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+224603,Tanitoluwa Oluwaseyi,,25,Canada,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '71:35', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+224628,Ali Ahmed,,20,Canada,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '71:36', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+224771,Kyle Hiebert,,26,Canada,[],[]
+225215,Jacen Russell-Rowe,,12,Canada,[],[]
+383250,Moise Bombito,,15,Canada,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"

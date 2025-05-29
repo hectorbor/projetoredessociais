@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3632,André Martín Carrillo Díaz,André Carrillo,18,Peru,[],[]
+5519,Christian Alberto Cueva Bravo,Christian Cueva,10,Peru,[],[]
+5521,Luis Jan Piers Advíncula Castrillón,Luis Advíncula,17,Peru,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '34:07', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+5525,Édison Michael Flores Peralta,Edison Flores,20,Peru,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': '70:54', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5528,Pedro David Gallese Quiróz,Pedro Gallese,1,Peru,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5535,José Paolo Guerrero Gonzáles,Paolo Guerrero,9,Peru,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '70:54', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5738,Anderson Santamaría Bardales,Anderson Santamaría,4,Peru,[],[]
+6313,Wilder José Cartagena Mendoza,Wilder Cartagena,16,Peru,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7143,Gianluca Lapadula Vargas,,14,Peru,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10836,Sergio Fernando Peña Flores,Sergio Peña,8,Peru,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+13435,Andy Jorman Polo Andrade,Andy Polo,7,Peru,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '83:31', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+15481,Alexander Martín Marquinho Callens Asín,Alexander Callens,22,Peru,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': '83:38', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+23749,Marcos Johan López Lanfranco,Marcos López,6,Peru,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '34:07', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+28669,Luis Alfonso Abram Ugarelli,Luis Abram,2,Peru,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '83:38', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+33176,Miguel Gianpierre Araujo Blanco,Miguel Araujo,15,Peru,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+35009,Aldo Sebastián Corzo Chávez,Aldo Corzo,3,Peru,[],[]
+35017,Carlos Alberto Cáceda Oyaguez,,12,Peru,[],[]
+35205,Jesús Abdallah Castillo Molina,Jesús Castillo,13,Peru,[],[]
+36359,Carlos Augusto Zambrano Ochandarte,Carlos Zambrano,5,Peru,"[{'time': '17:21', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+37700,José Daniel Rivera Martínez,José Rivera,24,Peru,[],[]
+41342,Joao Alberto Grimaldo Ubidia,Joao Grimaldo,25,Peru,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '70:39', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+45377,Franco Zanelatto Téllez,Franco Zanelatto,26,Peru,[],[]
+46083,Diego Alonso Romero Cachay,Diego Romero,21,Peru,[],[]
+101509,Piero Aldair Quispe Córdova,Piero Quispe,23,Peru,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '70:39', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+111560,Brayan Roberto Reyna Casaverde,Bryan Reyna,11,Peru,[],[]
+130731,Oliver Sonne,,19,Peru,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '83:31', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"

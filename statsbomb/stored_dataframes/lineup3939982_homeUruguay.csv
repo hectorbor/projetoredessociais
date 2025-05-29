@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+5246,Luis Alberto Suárez Díaz,Luis Suárez,9,Uruguay,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '82:19', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5247,Nahitan Michel Nández Acosta,Nahitan Nández,8,Uruguay,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5258,Giorgian Daniel De Arrascaeta Benedetti,Giorgian De Arrascaeta,10,Uruguay,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '88:04', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5259,José María Giménez de Vargas,José Giménez,2,Uruguay,[],[]
+5260,Rodrigo Bentancur Colmán,Rodrigo Bentancur,6,Uruguay,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '85:06', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5264,Guillermo Varela Olivera,Guillermo Varela,13,Uruguay,[],[]
+6773,Federico Santiago Valverde Dipetta,Federico Valverde,15,Uruguay,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '85:06', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+7104,Mathías Olivera Miramontes,Mathías Olivera,16,Uruguay,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+24730,Lucas René Olaza Catrofe,Lucas Olaza,24,Uruguay,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '81:56', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+28729,Diego Nicolás De La Cruz Arcosa,Nicolás De La Cruz,7,Uruguay,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '88:04', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+30736,Paul Brian Rodríguez Bravo,Brian Rodríguez,18,Uruguay,[],[]
+32478,Darwin Gabriel Núñez Ribeiro,Darwin Núñez,19,Uruguay,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '82:19', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+32480,Ronald Federico Araújo da Silva,Ronald Araújo,4,Uruguay,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+34476,Matías Nicolás Viña Susperreguy,Matías Viña,17,Uruguay,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '81:56', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+35492,Maximiliano Javier Araújo Vilches,Maximiliano Araújo,20,Uruguay,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+35690,Sebastián Enzo Cáceres Ramos,Sebastián Cáceres,3,Uruguay,[],[]
+36288,Facundo Pellistri Rebollo,Facundo Pellistri,11,Uruguay,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '85:03', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+36659,Manuel Ugarte Ribeiro,Manuel Ugarte,5,Uruguay,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+36666,Agustín Canobbio Graviz,Agustín Canobbio,14,Uruguay,[],[]
+36697,Brian Alexis Ocampo Ferreira,Brian Ocampo,26,Uruguay,[],[]
+36706,Cristian Gonzalo Olivera Ibarra,Cristian Olivera,25,Uruguay,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '85:03', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+36710,Sergio Rochet Álvarez,Sergio Rochet,1,Uruguay,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+36713,Emiliano Martínez Toranza,Emiliano Martínez,21,Uruguay,[],[]
+51942,Santiago Andrés Mele Castanero,Santiago Mele,23,Uruguay,[],[]
+57128,Franco Israel Wibmer,,12,Uruguay,[],[]
+85625,Nicolás Marichal Pérez,,22,Uruguay,[],[]

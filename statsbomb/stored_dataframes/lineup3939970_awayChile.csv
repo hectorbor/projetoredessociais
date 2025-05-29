@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3385,Alexis Alejandro Sánchez Sánchez,Alexis Sánchez,10,Chile,"[{'time': '78:50', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4691,Claudio Andrés Bravo Muñoz,Claudio Bravo,1,Chile,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4735,Ben Brereton Díaz,,22,Chile,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '64:20', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+6855,Guillermo Alfonso Maripán Loaysa,Guillermo Maripán,3,Chile,[],[]
+7175,Erick Antonio Pulgar Farfán,Erick Pulgar,13,Chile,"[{'time': '21:05', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+18874,Mauricio Aníbal Isla Isla,Mauricio Isla,4,Chile,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+26256,Igor Lichnovsky Osorio,Igor Lichnovsky,16,Chile,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+26369,Diego Alfonso Valdés Contreras,Diego Valdés,15,Chile,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}, {'position_id': 21, 'position': 'Left Wing', 'from': '46:28', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+27317,Eduardo Jesús Vargas Rojas,Eduardo Vargas,11,Chile,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '64:20', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+27969,Matías Ezequiel Catalán,Matías Catalán,21,Chile,[],[]
+28648,Gabriel Arias Arroyo,Gabriel Arias,12,Chile,[],[]
+30944,Víctor Alejandro Dávila Zavala,Víctor Dávila,9,Chile,"[{'time': '46:37', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '45:00', 'to': '63:59', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+31012,Paulo César Díaz Huincales,Paulo Díaz,5,Chile,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+35738,Rodrigo Eduardo Echeverría Sáez,Rodrigo Echeverría,18,Chile,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '84:03', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+35860,Benjamín Kuscevic Jaramillo,Benjamín Kuscevic,25,Chile,[],[]
+35939,Marcos Nikolas Bolados Hidalgo,,19,Chile,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '63:59', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+35941,Brayan Josué Cortés Fernández,Brayan Cortés,23,Chile,[],[]
+36016,Nicolás Esteban Fernández Muñoz,Nicolás Fernández,26,Chile,[],[]
+36212,Gabriel Alonso Suazo Urbina,Gabriel Suazo,2,Chile,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+36532,Marcelino Ignacio Nuñez Espinoza,Marcelino Núñez,7,Chile,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '84:03', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+37057,Thomas Ignacio Galdames Millán,Thomas Galdames,6,Chile,[],[]
+73310,Cristián Alexander Zavala Briones,,14,Chile,[],[]
+76083,Esteban Andres Pavez Suazo,,17,Chile,[],[]
+106357,Maximiliano Gabriel Guerrero Pena,,20,Chile,[],[]
+204925,Darío Esteban Osorio Osorio,Darío Osorio,8,Chile,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '45:00', 'to': '45:00', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - On (Injury)'}, {'position_id': 21, 'position': 'Left Wing', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+217795,César Ignacio Pérez Maldonado,,24,Chile,[],[]

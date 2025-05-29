@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2995,Ángel Fabián Di María Hernández,Ángel Di María,11,Argentina,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '76:11', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3090,Nicolás Hernán Otamendi,Nicolás Otamendi,19,Argentina,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3313,Giovani Lo Celso,,16,Argentina,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '25:56', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '25:56', 'to': '65:49', 'from_period': 1, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5503,Lionel Andrés Messi Cuccittini,Lionel Messi,10,Argentina,[],[]
+5507,Nicolás Alejandro Tagliafico,Nicolás Tagliafico,3,Argentina,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6312,Franco Armani,,1,Argentina,[],[]
+6694,Gerónimo Rulli,Gero Rulli,12,Argentina,[],[]
+6909,Damián Emiliano Martínez,Emiliano Martínez,23,Argentina,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7161,Germán Alejandro Pezzella,Germán Pezzella,6,Argentina,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '81:58', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+7797,Rodrigo Javier De Paul,Rodrigo De Paul,7,Argentina,[],[]
+11456,Lautaro Javier Martínez,Lautaro Martínez,22,Argentina,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '52:04', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 23, 'position': 'Center Forward', 'from': '53:19', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+16308,Leandro Daniel Paredes,Leandro Paredes,5,Argentina,"[{'time': '66:58', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': '77:13', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+19597,Marcos Javier Acuña,Marcos Acuña,8,Argentina,[],[]
+20572,Cristian Gabriel Romero,Cristian Romero,13,Argentina,[],[]
+20687,Nicolás Iván González,Nicolás González,15,Argentina,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '64:56', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+26404,Guido Rodríguez,,18,Argentina,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '77:13', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+27768,Lisandro Martínez,,25,Argentina,[],[]
+27886,Alexis Mac Allister,Alexis MacAllister,20,Argentina,[],[]
+28263,Gonzalo Ariel Montiel,Gonzalo Montiel,4,Argentina,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+28268,Exequiel Alejandro Palacios,Exequiel Palacios,14,Argentina,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '25:56', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '25:56', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+28728,Lucas Martínez Quarta,Lucas Martínez,2,Argentina,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '81:58', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+29201,Nahuel Molina Lucero,Nahuel Molina,26,Argentina,[],[]
+29560,Julián Álvarez,,9,Argentina,[],[]
+38718,Enzo Fernandez,,24,Argentina,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '65:49', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+52129,Alejandro Garnacho Ferreyra,Alejandro Garnacho,17,Argentina,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '64:56', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+148397,Valentin Carboni,,21,Argentina,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '76:11', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"

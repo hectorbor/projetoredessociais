@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+15452,Carlos Uriel Antuna Romero,Uriel Antuna,15,Mexico,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '00:00', 'to': '72:17', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+26280,Orbelín Pineda Alvarado,Orbelín Pineda,17,Mexico,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '77:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+26297,Carlos Alberto Rodríguez Gómez,Carlos Alberto Rodríguez,8,Mexico,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '60:13', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+26301,Ernesto Alexis Vega Rojas,Alexis Vega,10,Mexico,"[{'time': '63:35', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '60:13', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+26336,Johan Felipe Vásquez Ibarra,Johan Vásquez,5,Mexico,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+26368,César Jasib Montes Castro,César Montes,3,Mexico,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+26375,Roberto Carlos Alvarado Hernández,Roberto Alvarado,25,Mexico,[],[]
+26385,Jordi Cortizo de la Piedra,Jordi Cortizo,16,Mexico,[],[]
+26386,Luis Francisco Romo Barrón,Luis Romo,7,Mexico,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+26406,Jorge Eduardo Sánchez Ramos,Jorge Sánchez,2,Mexico,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+27889,César Saúl Huerta Valera,César Huerta,21,Mexico,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '72:17', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+27896,Gerardo Daniel Arteaga Zamora,Gerardo Arteaga,6,Mexico,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+28825,Luis Gerardo Chávez Magallón,Luis Chávez,24,Mexico,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+31053,Santiago Tomás Giménez,Santiago Giménez,11,Mexico,"[{'time': '37:57', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '60:30', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+32917,Carlos Acevedo López,Carlos Acevedo,12,Mexico,[],[]
+33126,Israel Reyes Romero,Israel Reyes,19,Mexico,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+35375,Julián Andrés Quiñones Quiñones,Julián Quiñones,9,Mexico,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '00:00', 'to': '77:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+36949,Julio José González Vela-Alvizu,,1,Mexico,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+43555,Erick Daniel Sánchez Ocegueda,Erick Sánchez,14,Mexico,[],[]
+48924,Bryan Alonso González Olivan,Bryan González,26,Mexico,[],[]
+75305,Guillermo Martínez Ayala,,22,Mexico,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '60:30', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+111731,Jesús Gilberto Orozco Chiquete,Jesús Chiquete,13,Mexico,[],[]
+130977,Brian Alberto García Carpizo,,20,Mexico,[],[]
+161874,Marcelo Flores,,18,Mexico,[],[]
+232966,José Raúl Rangel Aguilar,,23,Mexico,[],[]
