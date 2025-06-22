@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2954,Youri Tielemans,,8,Belgium,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3077,Jan Vertonghen,,5,Belgium,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3089,Kevin De Bruyne,,7,Belgium,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3176,Thomas Meunier,,15,Belgium,"[{'time': '52:52', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 8, 'position': 'Left Wing Back', 'from': '45:00', 'to': '45:24', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 7, 'position': 'Right Wing Back', 'from': '45:24', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3289,Romelu Lukaku Menama,Romelu Lukaku,9,Belgium,[],[]
+3457,Michy Batshuayi Tunga,Michy Batshuayi,23,Belgium,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '77:53', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3509,Thibaut Courtois,,1,Belgium,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3539,Simon Mignolet,,12,Belgium,[],[]
+3621,Eden Hazard,,10,Belgium,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '00:00', 'to': '61:49', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5630,Dries Mertens,,14,Belgium,[],[]
+5632,Thorgan Hazard,,16,Belgium,[],[]
+5633,Yannick Ferreira Carrasco,Yannick Carrasco,11,Belgium,"[{'time': '07:10', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5642,Axel Witsel,,6,Belgium,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6331,Leander Dendoncker,,19,Belgium,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6989,Timothy Castagne,,21,Belgium,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '45:24', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '45:24', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8240,Koen Casteels,,13,Belgium,[],[]
+8854,Wout Faes,,4,Belgium,[],[]
+16275,Ikoma Loïs Openda,Loïs Openda,24,Belgium,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '77:53', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+16281,Hans Vanaken,,20,Belgium,[],[]
+16559,Leandro Trossard,,17,Belgium,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '61:49', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+20005,Toby Alderweireld,,2,Belgium,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+23650,Jeremy Doku,Jérémy Doku,25,Belgium,[],[]
+32688,Charles De Ketelaere,,22,Belgium,[],[]
+43913,Arthur Theate,,3,Belgium,[],[]
+48347,Amadou Onana,,18,Belgium,"[{'time': '55:48', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+114832,Zeno Debast,,26,Belgium,[],[]

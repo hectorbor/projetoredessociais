@@ -1,0 +1,25 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3648,Cenk Tosun,,9,Turkey,[],[]
+9085,Salih Özcan,,15,Turkey,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '57:28', 'to': '78:06', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '78:06', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+10349,Mehmet Zeki Çelik,Zeki Celik,2,Turkey,[],[]
+10826,Mert Müldür,,18,Turkey,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12293,Kaan Ayhan,,22,Turkey,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12555,Okay Yokuşlu,,5,Turkey,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '77:31', 'to': '78:06', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '78:06', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+18723,Yunus Akgün,,25,Turkey,[],[]
+22212,Orkun Kökçü,,6,Turkey,"[{'time': '10:14', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '78:06', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '78:06', 'to': '82:20', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Injury)'}]"
+23558,Merih Demiral,,3,Turkey,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+29989,Yusuf Yazıcı,,11,Turkey,[],[]
+30310,Fehmi Mert Günok,Mert Günok,1,Turkey,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30311,İrfan Can Kahveci,,17,Turkey,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '82:20', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+30357,Uğurcan Çakır,,23,Turkey,[],[]
+30438,Ferdi Erenay Kadıoğlu,Ferdi Kadioglu,20,Turkey,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30442,Altay Bayındır,,12,Turkey,[],[]
+47383,Ahmetcan Kaplan,,13,Turkey,[],[]
+48383,Abdülkerim Bardakcı,,14,Turkey,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+49689,Muhammed Kerem Aktürkoğlu,Kerem Aktürkoglu,7,Turkey,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '77:32', 'to': '78:06', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 24, 'position': 'Left Center Forward', 'from': '78:06', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+78241,İsmail Yüksek,,16,Turkey,"[{'time': '41:19', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '57:28', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+116587,Arda Güler,,8,Turkey,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '77:31', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+133168,Bertuğ Özgür Yıldırım,,26,Turkey,[],[]
+134209,Barış Alper Yılmaz,,21,Turkey,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '78:06', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '78:06', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+149576,Semih Kılıçsoy,,24,Turkey,[],[]
+151813,Kenan Yildiz,,19,Turkey,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '77:32', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3377,Timothy Weah,,21,United States of America,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '87:33', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3658,DeAndre Yedlin,,22,United States of America,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '74:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+4614,Antonee Robinson,,5,United States of America,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6806,Shaquell Moore,Shaq Moore,18,United States of America,[],[]
+8246,Christian Pulisic,,10,United States of America,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '71:12', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 21, 'position': 'Left Wing', 'from': '71:32', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+8526,Weston McKennie,,8,United States of America,"[{'time': '12:03', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '65:12', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+12352,Matthew Charles Turner,,1,United States of America,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12524,Walker Zimmerman,,3,United States of America,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12746,Sean Johnson,,25,United States of America,[],[]
+12751,Tyler Adams,,4,United States of America,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12757,Aaron Long,,15,United States of America,[],[]
+13035,Kellyn Kai Perry-Acosta,,23,United States of America,"[{'time': '99:52', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '74:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+13442,Cristian Roldán León,,17,United States of America,[],[]
+15971,Cameron Carter-Vickers,,20,United States of America,[],[]
+18242,Tim Ream,,13,United States of America,"[{'time': '50:15', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+21201,Ethan Horvath,,12,United States of America,[],[]
+21881,Sergino Dest,Sergiño Dest,2,United States of America,"[{'time': '10:28', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '74:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22008,Haji Wright,,19,United States of America,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '73:29', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+22168,Joshua Sargent,Josh Sargent,24,United States of America,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '73:29', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22433,Jesus Ferreira,,9,United States of America,[],[]
+23789,Jordan Morris,,16,United States of America,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '87:33', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+24243,Brenden Aaronson,,11,United States of America,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '65:12', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+33274,Luca de la Torre,,14,United States of America,[],[]
+34339,Giovanni Reyna,,7,United States of America,[],[]
+36830,Joseph Scally,Joe Scally,26,United States of America,[],[]
+38792,Yunus Dimoara Musah,,6,United States of America,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '74:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"

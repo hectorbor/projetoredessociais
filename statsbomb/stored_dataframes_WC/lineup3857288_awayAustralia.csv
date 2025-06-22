@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3240,Mathew Ryan,Mat Ryan,1,Australia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3281,Aaron Mooy,,13,Australia,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5479,Aziz Eraltay Behich,Aziz Behich,16,Australia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5481,Mathew Leckie,,7,Australia,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '00:00', 'to': '77:58', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 12, 'position': 'Right Midfield', 'from': '78:42', 'to': '84:28', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5490,Jackson Irvine,,22,Australia,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8346,Craig Goodwin,,23,Australia,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '00:00', 'to': '84:32', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8859,Ajdin Hrustic,,10,Australia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '63:05', 'to': '63:37', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '63:37', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+9430,Jason Cummings,,25,Australia,[],[]
+9980,Jamie MacLaren,Jamie Maclaren,9,Australia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '63:01', 'to': '63:37', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 24, 'position': 'Left Center Forward', 'from': '63:37', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+15957,Miloš Degenek,,2,Australia,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '74:49', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+16549,Danny Vuković,,18,Australia,[],[]
+22293,Harry Souttar,,19,Australia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+22371,Bailey Wright,,8,Australia,[],[]
+24475,Awer Mabil,,11,Australia,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '84:32', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+28370,Fran Karačić,,5,Australia,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '74:49', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+33446,Thomas Deng,,20,Australia,[],[]
+33465,Joel King,,24,Australia,[],[]
+33477,Riley McGree,,14,Australia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': '63:05', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+33488,Keanu Baccus,,26,Australia,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '84:28', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+33492,Mitchell Thomas Duke,Mitchell Duke,15,Australia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': '63:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+33495,Kye Rowles,,4,Australia,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+33502,Cameron Peter Devlin,,17,Australia,[],[]
+33564,Andrew Redmayne,,12,Australia,[],[]
+36158,Marco Tilio,,6,Australia,[],[]
+227697,Garang Kuol,,21,Australia,[],[]

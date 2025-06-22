@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+5456,Mateo Kovačić,,8,Croatia,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+5459,Marko Pjaca,,20,Croatia,[],[]
+5460,Andrej Kramarić,,9,Croatia,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '83:38', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5463,Luka Modrić,,10,Croatia,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+5468,Domagoj Vida,,21,Croatia,[],[]
+5469,Marcelo Brozović,,11,Croatia,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5474,Ivan Perišić,,14,Croatia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '83:10', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+7693,Bruno Petković,,17,Croatia,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '68:18', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8654,Ante Budimir,,16,Croatia,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '68:18', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+8773,Marin Pongracic,,3,Croatia,[],[]
+11603,Mario Pašalić,,15,Croatia,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '45:00', 'to': '45:00', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - On (Tactical)'}, {'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+12625,Borna Sosa,,19,Croatia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '83:10', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+16531,Dominik Livaković,,1,Croatia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+28368,Luka Ivanušec,,18,Croatia,[],[]
+28835,Ivica Ivušić,,23,Croatia,"[{'time': '86:49', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]",[]
+28914,Lovro Majer,,7,Croatia,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+29163,Josip Juranović,,22,Croatia,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+32689,Martin Erlić,,5,Croatia,[],[]
+33018,Joško Gvardiol,,4,Croatia,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+37148,Josip Šutalo,,6,Croatia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '65:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 3, 'position': 'Right Center Back', 'from': '65:27', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+39490,Luka Sučić,,25,Croatia,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '45:00', 'to': '45:00', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - On (Tactical)'}, {'position_id': 17, 'position': 'Right Wing', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+44975,Nediljko Labrović,,12,Croatia,[],[]
+49337,Josip Stanišić,,2,Croatia,[],[]
+63505,Martin Baturina,,26,Croatia,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '83:38', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+131170,Marco Pašalić,,24,Croatia,[],[]

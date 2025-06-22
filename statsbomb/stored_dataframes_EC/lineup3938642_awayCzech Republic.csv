@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+4870,Tomáš Souček,,22,Czech Republic,"[{'time': '80:07', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7044,Patrik Schick,,10,Czech Republic,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '67:30', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+7801,Antonín Barák,,7,Czech Republic,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '80:42', 'to': '82:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '82:14', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8116,Václav Černý,,17,Czech Republic,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '00:00', 'to': '54:25', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+16469,Tomáš Holeš,,3,Czech Republic,"[{'time': '52:24', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16570,Vladimír Coufal,,5,Czech Republic,"[{'time': '17:00', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+21226,Tomáš Chorý,,19,Czech Republic,[],[]
+23454,Petr Ševčík,,8,Czech Republic,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '80:37', 'to': '82:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '82:14', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+27826,Ondřej Lingr,,20,Czech Republic,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '54:45', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+28034,Lukáš Provod,,14,Czech Republic,"[{'time': '38:56', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '80:42', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+28040,Jindřich Staněk,,1,Czech Republic,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+28227,Pavel Šulc,,25,Czech Republic,[],[]
+28239,Adam Hložek,,9,Czech Republic,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '00:00', 'to': '54:45', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+28272,Ladislav Krejčí,,18,Czech Republic,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+29484,Jan Kuchta,,11,Czech Republic,[],[]
+32985,Mojmír Chytil,,13,Czech Republic,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '67:30', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+33200,David Zima,,2,Czech Republic,[],[]
+35441,David Doudera,,12,Czech Republic,[],[]
+39143,Matěj Jurásek,,26,Czech Republic,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '54:25', 'to': '82:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '82:14', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+39338,Lukáš Červ,,21,Czech Republic,[],[]
+40207,Vitezslav Jaros,,23,Czech Republic,[],[]
+46046,Matěj Kovář,,16,Czech Republic,[],[]
+50896,Martin Vitík,,6,Czech Republic,[],[]
+81330,Robin Hranáč,,4,Czech Republic,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+134272,David Jurásek,,15,Czech Republic,"[{'time': '45:46', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '46:51', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '47:06', 'to': '80:37', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+287492,Tomáš Vlček,,24,Czech Republic,[],[]

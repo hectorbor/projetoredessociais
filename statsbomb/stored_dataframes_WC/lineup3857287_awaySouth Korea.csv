@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3083,Heung-Min Son,Son Heung-Min,7,Korea (South),[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3135,Chang-Hoon Kwon,Kwon Chang-Hoon,22,Korea (South),[],[]
+5604,Young-Gwon Kim,Kim Young-Gwon,19,Korea (South),[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5618,Woo-Young Jung,Jung Woo-Young,5,Korea (South),[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5619,Hyeon-Woo Jo,,21,Korea (South),[],[]
+5620,Hee-Chan Hwang,Hwang Hee-Chan,11,Korea (South),[],[]
+5623,Jae-Sung Lee,Lee Jae-Sung,10,Korea (South),[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '73:38', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5986,Chul Hong,Hong Chul,14,Korea (South),[],[]
+22067,Woo-Yeong Jeong,Jeong Woo-Yeong,25,Korea (South),[],[]
+22740,Kang-In Lee,Lee Kang-In,18,Korea (South),[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '74:03', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+23264,Seung-Ho Paik,Paik Seung-Ho,8,Korea (South),[],[]
+23763,In-Beom Hwang,Hwang In-Beom,6,Korea (South),[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '75:25', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '75:25', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+29966,Ui-Jo Hwang,Hwang Ui-jo,16,Korea (South),[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '73:34', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+37641,Seung-Gyu Kim,Kim Seung-Gyu,1,Korea (South),[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+40538,Jin-Su Kim,Kim Jin-Su,3,Korea (South),[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+40542,Gue-Sung Cho,Cho Kyu-Sung,9,Korea (South),"[{'time': '87:45', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 23, 'position': 'Center Forward', 'from': '73:34', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+40550,Bum-Keun Song,Song Bum-Keun,12,Korea (South),[],[]
+40558,Jun-Ho Son,Son Jun-Ho,13,Korea (South),[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '73:38', 'to': '75:25', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '75:25', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+40564,Kyung-Won Kwon,Kwon Kyung-Won,20,Korea (South),[],[]
+40578,Tae-Hwan Kim,Kim Tae-Hwan,23,Korea (South),[],[]
+40664,Min-Kyu Song,Song Min-Kyu,26,Korea (South),[],[]
+40672,Moon-Hwan Kim,Kim Moon-Hwan,15,Korea (South),[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+41495,Jong-Gyu Yoon,Yoon Jong-Gyu,2,Korea (South),[],[]
+41711,Sang-Ho Na,Na Sangho,17,Korea (South),[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '74:03', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+43565,Min Jae Kim,Min Jae Kim,4,Korea (South),[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '64:29', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 3, 'position': 'Right Center Back', 'from': '64:59', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+99479,Yu-Min Cho,Cho Yu-Min,24,Korea (South),[],[]

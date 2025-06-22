@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3086,Ben Davies,,4,Wales,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '58:37', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+3517,Aaron Ramsey,,10,Wales,"[{'time': '60:34', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3839,Tom Lockyer,,17,Wales,[],[]
+3853,Kieffer Roberto Francisco Moore,Kieffer Moore,13,Wales,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4584,Adam Davies,,21,Wales,[],[]
+4767,Chris Mepham,,5,Wales,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4774,Connor Roberts,,14,Wales,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '35:56', 'to': '59:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Tactical Shift'}, {'position_id': 6, 'position': 'Left Back', 'from': '59:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+4934,Ethan Ampadu,,15,Wales,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '59:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 2, 'position': 'Right Back', 'from': '59:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+6399,Gareth Frank Bale,Gareth Bale,11,Wales,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+9540,Harry Wilson,,8,Wales,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '76:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+9914,Danny Ward,,12,Wales,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10928,Chris Gunter,,2,Wales,[],[]
+10931,Joe Allen,,7,Wales,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '80:20', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+10932,Jonathan Williams,,18,Wales,[],[]
+11250,Joe Rodon,,6,Wales,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+11252,Daniel James,,20,Wales,"[{'time': '28:39', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '76:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+12014,Mark Thomas Harris,Mark Harris,19,Wales,[],[]
+21446,Matthew Robert Smith,Matthew Smith,26,Wales,[],[]
+22074,Joseff Morrell,,16,Wales,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '58:37', 'to': '59:01', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '59:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+29377,Brennan Johnson,,9,Wales,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+33121,Benjamin Cabango,Ben Cabango,24,Wales,[],[]
+33144,Dylan Levitt,,23,Wales,[],[]
+34794,Neco Williams,,3,Wales,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '35:56', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+50528,Sorba Thomas,,22,Wales,[],[]
+82257,Rubin Colwill,,25,Wales,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '80:20', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"

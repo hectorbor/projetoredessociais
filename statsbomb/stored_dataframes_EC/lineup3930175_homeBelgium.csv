@@ -1,0 +1,24 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2954,Youri Tielemans,,8,Belgium,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '71:10', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3077,Jan Vertonghen,,5,Belgium,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3089,Kevin De Bruyne,,7,Belgium,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3289,Romelu Lukaku Menama,Romelu Lukaku,10,Belgium,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5633,Yannick Ferreira Carrasco,Yannick Carrasco,11,Belgium,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '71:42', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+6989,Timothy Castagne,,21,Belgium,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '76:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 6, 'position': 'Left Back', 'from': '76:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8240,Koen Casteels,,1,Belgium,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8854,Wout Faes,,4,Belgium,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8950,Orel Mangala,,18,Belgium,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '71:10', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+10479,Matz Sels,,13,Belgium,[],[]
+12306,Dodi Lukebakio,,14,Belgium,"[{'time': '34:22', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '55:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+16275,Ikoma Loïs Openda,Loïs Openda,20,Belgium,[],[]
+16559,Leandro Trossard,,9,Belgium,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '55:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+23650,Jeremy Doku,Jérémy Doku,22,Belgium,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '52:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 21, 'position': 'Left Wing', 'from': '52:47', 'to': '71:42', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+23741,Thomas Kaminski,,12,Belgium,[],[]
+29906,Aster Vranckx,,16,Belgium,[],[]
+32688,Charles De Ketelaere,,17,Belgium,[],[]
+35610,Maxim De Cuyper,,25,Belgium,[],[]
+43913,Arthur Theate,,3,Belgium,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '75:55', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+48347,Amadou Onana,,24,Belgium,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+52218,Johan Bakayoko,,19,Belgium,[],[]
+114832,Zeno Debast,,2,Belgium,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '75:55', 'to': '76:01', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Tactical Shift'}, {'position_id': 2, 'position': 'Right Back', 'from': '76:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+253306,Arthur Vermeeren,,23,Belgium,[],[]

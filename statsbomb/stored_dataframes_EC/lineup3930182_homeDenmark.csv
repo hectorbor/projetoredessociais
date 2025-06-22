@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3027,Mathias Jattah-Njie Jørgensen,Zanka,13,Denmark,[],[]
+3043,Christian Dannemann Eriksen,Christian Eriksen,10,Denmark,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '00:00', 'to': '87:17', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3570,Pierre-Emile Højbjerg,,23,Denmark,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '20:41', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '20:41', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3815,Kasper Schmeichel,,1,Denmark,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3959,Andreas Christensen,,6,Denmark,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5527,Thomas Delaney,,8,Denmark,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '76:13', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5534,Simon Thorup Kjær,Simon Kjær,4,Denmark,[],[]
+5536,Yussuf Yurary Poulsen,Yussuf Poulsen,20,Denmark,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '87:17', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+6302,Kasper Dolberg,,12,Denmark,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '58:03', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+7097,Christian Nørgaard,,15,Denmark,[],[]
+8247,Joachim Andersen,,2,Denmark,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8621,Morten Hjulmand,,21,Denmark,"[{'time': '29:37', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '20:41', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '20:41', 'to': '76:13', 'from_period': 1, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8815,Jannik Vestergaard,,3,Denmark,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8961,Jacob Bruun Larsen,,26,Denmark,[],[]
+12420,Frederik Rønnow,,22,Denmark,[],[]
+16190,Rasmus Nissen Kristensen,Rasmus Kristensen,25,Denmark,[],[]
+16554,Joakim Mæhle,Joakim Maehle,5,Denmark,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '76:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 7, 'position': 'Right Wing Back', 'from': '76:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+17042,Andreas Skov Olsen,,11,Denmark,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+18722,Mathias Jensen,,7,Denmark,[],[]
+21261,Jonas Older Wind,Jonas Wind,19,Denmark,"[{'time': '26:45', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+23287,Anders Dreyer,,24,Denmark,[],[]
+24443,Mikkel Damsgaard,,14,Denmark,[],[]
+24547,Alexander Hartmann Bah,Alexander Bah,18,Denmark,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '76:14', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+40813,Mads Hermansen,,16,Denmark,[],[]
+51672,Rasmus Winther Højlund,Rasmus Höjlund,9,Denmark,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '58:03', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+60343,Victor Bernth Kristansen,Victor Kristiansen,17,Denmark,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '76:14', 'to': '76:15', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '76:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"

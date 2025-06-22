@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3512,Marko Grujić,,26,Serbia,[],[]
+3831,Dušan Tadić,,10,Serbia,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '77:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+4269,Aleksandar Mitrović,,9,Serbia,"[{'time': '81:42', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5589,Sergej Milinković-Savić,,20,Serbia,"[{'time': '46:35', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '66:59', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5591,Filip Kostić,,17,Serbia,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5603,Nikola Milenković,,4,Serbia,"[{'time': '94:20', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5833,Nemanja Radonjić,,7,Serbia,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '77:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+6318,Andrija Živković,,14,Serbia,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '77:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6319,Luka Jović,,11,Serbia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '54:15', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+6321,Milos Veljkovic,,5,Serbia,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': '54:02', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6687,Saša Lukić,,16,Serbia,"[{'time': '99:03', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '67:18', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '67:18', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+6698,Marko Dmitrović,,1,Serbia,[],[]
+6901,Nemanja Maksimović,,6,Serbia,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '66:59', 'to': '67:18', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '67:18', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+7117,Filip Đuričić,Filip Djuricic,21,Serbia,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '77:35', 'to': '80:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Player Off'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '82:22', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+7145,Darko Lazović,,22,Serbia,[],[]
+7993,Filip Mladenović,,25,Serbia,[],[]
+10477,Stefan Mitrović,,13,Serbia,[],[]
+15731,Predrag Rajković,,12,Serbia,"[{'time': '66:05', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]",[]
+16489,Nemanja Gudelj,,8,Serbia,"[{'time': '80:29', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 4, 'position': 'Center Back', 'from': '54:02', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+18015,Dušan Vlahović,,18,Serbia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': '54:15', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+18737,Srđan Babić,,15,Serbia,[],[]
+20600,Vanja Milinković Savić,,23,Serbia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+24267,Uroš Račić,,19,Serbia,[],[]
+27719,Strahinja Pavlović,,2,Serbia,"[{'time': '55:00', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30179,Ivan Ilić,,24,Serbia,[],[]
+43666,Strahinja Eraković,,3,Serbia,[],[]

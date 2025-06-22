@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3575,Oleksandr Zinchenko,,17,Ukraine,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '45:54', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 6, 'position': 'Left Back', 'from': '46:20', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+8830,Andriy Yarmolenko,,7,Ukraine,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '00:00', 'to': '66:16', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+11000,Taras Stepanenko,,6,Ukraine,[],[]
+16509,Viktor Tsygankov,,15,Ukraine,[],[]
+16514,Serhii Sydorchuk,Sergiy Sydorchuk,5,Ukraine,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '84:40', 'to': '85:11', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '85:11', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+16557,Ruslan Malinovskiy,,8,Ukraine,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '84:23', 'to': '85:11', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '85:11', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+18617,Mykola Matvienko,Mykola Matvienko,22,Ukraine,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+20827,Vitalii Mykolenko,,16,Ukraine,[],[]
+21294,Mykola Shaparenko,,19,Ukraine,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '85:11', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '85:11', 'to': '91:03', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+21390,Andriy Lunin,,23,Ukraine,[],[]
+22243,Heorhii Bushchan,,1,Ukraine,[],[]
+23649,Roman Yaremchuk,,9,Ukraine,"[{'time': '83:21', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 23, 'position': 'Center Forward', 'from': '66:07', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+25079,Artem Dovbyk,,11,Ukraine,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '66:07', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+30059,Oleksandr Svatok,,3,Ukraine,[],[]
+31892,Oleksandr Zubkov,,20,Ukraine,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '66:16', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+36911,Maksym Talovierov,Maksym Taloverov,4,Ukraine,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '91:03', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+37330,Anatolii Trubin,Anatoliy Trubin,12,Ukraine,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+38975,Georgiy Sudakov,Georgiy Sudakov,14,Ukraine,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '85:11', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 16, 'position': 'Left Midfield', 'from': '85:11', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+39136,Illia Zabarnyi,Ilya Zabarnyi,13,Ukraine,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+39483,Mykhailo Mudryk,,10,Ukraine,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '00:00', 'to': '74:58', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 16, 'position': 'Left Midfield', 'from': '75:14', 'to': '84:23', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+40141,Vladyslav Vanat,,25,Ukraine,[],[]
+44085,Valerii Bondar,Valeriy Bondar,21,Ukraine,[],[]
+44557,Bohdan Mykhaylichenko,,26,Ukraine,[],[]
+45785,Yukhym Konoplya,,2,Ukraine,[],[]
+45863,Oleksandr Tymchyk,,24,Ukraine,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+144127,Volodymyr Brazhko,,18,Ukraine,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '84:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

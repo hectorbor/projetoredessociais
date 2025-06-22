@@ -1,0 +1,25 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2972,Marcus Thuram,,26,France,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '75:48', 'to': '75:56', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '75:56', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3009,Kylian Mbappé Lottin,Kylian Mbappé,10,France,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '75:56', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 23, 'position': 'Center Forward', 'from': '75:56', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3026,Adrien Rabiot,,14,France,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3099,Hugo Lloris,,1,France,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3379,Alphonse Areola,,23,France,[],[]
+3543,Steve Mandanda,,16,France,[],[]
+3604,Olivier Giroud,,9,France,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '75:48', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+4445,Jules Koundé,,5,France,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '91:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5476,Benjamin Pavard,,2,France,[],[]
+5477,Ousmane Dembélé,,11,France,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '75:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5485,Raphaël Varane,,4,France,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5487,Antoine Griezmann,,7,France,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6704,Theo Bernard François Hernández,Theo Hernández,22,France,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7153,Jordan Veretout,,15,France,[],[]
+7345,Mattéo Guendouzi Olié,Mattéo Guendouzi,6,France,[],[]
+7439,Axel Disasi,,3,France,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '91:35', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+8217,Kingsley Coman,,20,France,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '75:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+8519,Dayotchanculle Upamecano,,18,France,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10481,Aurélien Djani Tchouaméni,Aurélien Tchouaméni,8,France,"[{'time': '30:55', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '65:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+11135,Ibrahima Konaté,,24,France,[],[]
+11990,Youssouf Fofana,,13,France,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '65:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+17592,William Saliba,,17,France,[],[]
+22097,Randal Kolo Muani,Randal Kolo,12,France,[],[]
+24778,Eduardo Camavinga,,25,France,[],[]

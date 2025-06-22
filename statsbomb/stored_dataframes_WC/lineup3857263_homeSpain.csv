@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3477,Álvaro Borja Morata Martín,Álvaro Morata,7,Spain,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '53:25', 'to': '53:26', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 23, 'position': 'Center Forward', 'from': '53:26', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3957,César Azpilicueta Tanco,César Azpilicueta,2,Spain,[],[]
+4127,David Raya Martin,David Raya,13,Spain,[],[]
+4353,Aymeric Laporte,,24,Spain,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5199,Jorge Resurrección Merodio,Koke,8,Spain,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '65:14', 'to': '65:57', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '65:57', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+5203,Sergio Busquets i Burgos,Sergio Busquets,5,Spain,"[{'time': '43:28', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5211,Jordi Alba Ramos,Jordi Alba,18,Spain,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '81:51', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5719,Marco Asensio Willemsen,,10,Spain,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '53:26', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '53:26', 'to': '65:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5721,Daniel Carvajal Ramos,Daniel Carvajal,20,Spain,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6583,Carlos Soler Barragán,Carlos Soler,19,Spain,[],[]
+6720,Pablo Sarabia García,Pablo Sarabia,22,Spain,[],[]
+6748,Ferrán Torres García,Ferrán Torres,11,Spain,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '53:25', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6765,Rodrigo Hernández Cascante,Rodri,16,Spain,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6840,Marcos Llorente Moreno,Marcos Llorente,6,Spain,[],[]
+6892,Pau Francisco Torres,Pau Torres,4,Spain,[],[]
+9843,Robert Lynch Sanchez,Robert Sanchez,1,Spain,[],[]
+11748,Unai Simón Mendibil,Unai Simón,23,Spain,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16532,Daniel Olmo Carvajal,Daniel Olmo,21,Spain,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30486,Pedro González López,Pedri,26,Spain,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30756,Anssumane Fati,Ansu Fati,25,Spain,[],[]
+31953,Eric García Martret,Eric García,3,Spain,[],[]
+35641,Hugo Guillamón Sanmartín,Hugo Guillamón,15,Spain,[],[]
+39161,Alejandro Balde Martínez,Alejandro Balde,14,Spain,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '81:51', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+50494,Yeremi Jesús Pino Santos,Yeremi Pino,17,Spain,[],[]
+68574,Nicholas Williams Arthuer,Nico Williams,12,Spain,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '65:37', 'to': '65:57', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '65:57', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+133353,Pablo Martín Páez Gavira,Gavi,9,Spain,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '65:37', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

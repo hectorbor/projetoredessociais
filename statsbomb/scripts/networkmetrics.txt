@@ -1,0 +1,27 @@
+import networkx as nx
+
+G = nx.from_numpy_array(adj_matrix)
+
+# Get total number of edges (links)
+total_links = G.number_of_edges()
+
+# Calculate density
+density = nx.density(G)
+
+# Degree centrality
+deg_centrality = nx.degree_centrality(G)
+
+# Closeness centrality
+closeness = nx.closeness_centrality(G)
+
+# Betweenness centrality
+betweenness = nx.betweenness_centrality(G)
+
+# Clustering coefficient
+clustering = nx.clustering(G)
+
+# Average shortest path length (only for connected graphs)
+avg_shortest_path = nx.average_shortest_path_length(G)
+
+# Diameter (longest shortest path)
+diameter = nx.diameter(G)

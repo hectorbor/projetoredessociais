@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3088,Lewis Dunk,,15,England,[],[]
+3205,Kyle Walker,,2,England,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3244,John Stones,,5,England,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3308,Kieran Trippier,,12,England,"[{'time': '93:41', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3382,Luke Shaw,,3,England,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3468,Jordan Pickford,,1,England,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3495,Joe Gomez,,22,England,[],[]
+3664,Trent Alexander-Arnold,,8,England,[],[]
+3822,Ezri Konsa Ngoyo,Ezri Konsa,14,England,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '92:17', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3834,Ivan Toney,,17,England,[],[]
+3943,Declan Rice,,4,England,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': '93:02', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '93:02', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+4073,Dean Henderson,,23,England,[],[]
+4354,Phil Foden,,11,England,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '00:00', 'to': '79:28', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+4760,Ollie Watkins,,19,England,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '79:41', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+9000,Eberechi Eze,,21,England,[],[]
+9640,Jarrod Bowen,,20,England,[],[]
+10955,Harry Kane,,9,England,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '79:41', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22084,Bukayo Saka,,7,England,"[{'time': '85:00', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '92:17', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22783,Aaron Ramsdale,,13,England,[],[]
+28104,Anthony Gordon,,18,England,[],[]
+29399,Conor Gallagher,,16,England,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '92:13', 'to': '93:02', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '93:02', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+30714,Jude Bellingham,,10,England,"[{'time': '71:05', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '00:00', 'to': '09:29', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '10:36', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+34526,Marc Guehi,,6,England,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+39461,Cole Palmer,,24,England,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '79:28', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+77723,Adam Wharton,,25,England,[],[]
+99174,Kobbie Mainoo,,26,England,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '92:13', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

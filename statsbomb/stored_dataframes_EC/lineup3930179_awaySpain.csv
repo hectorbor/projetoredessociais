@@ -1,0 +1,24 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3042,Mikel Merino Zazón,Mikel Merino,6,Spain,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3265,José Luis Sanmartín Mato,Joselu,9,Spain,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '70:48', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3477,Álvaro Borja Morata Martín,Álvaro Morata,7,Spain,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '70:48', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+4127,David Raya Martin,David Raya,1,Spain,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4353,Aymeric Laporte,,14,Spain,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5721,Daniel Carvajal Ramos,Daniel Carvajal,2,Spain,[],[]
+6655,Fabián Ruiz Peña,Fabián Ruiz,8,Spain,[],[]
+6685,Mikel Oyarzabal Ugarte,Mikel Oyarzabal,21,Spain,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '61:13', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6748,Ferrán Torres García,Ferrán Torres,11,Spain,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '70:41', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6821,Jesús Navas González,Jesús Navas,22,Spain,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10336,Alejandro Grimaldo García,Álex Grimaldo,12,Spain,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+11748,Unai Simón Mendibil,Unai Simón,23,Spain,[],[]
+16532,Daniel Olmo Carvajal,Daniel Olmo,10,Spain,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '61:50', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '61:50', 'to': '83:39', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+17620,Marc Cucurella Saseta,Marc Cucurella,24,Spain,[],[]
+22128,Robin Aime Robert Le Normand,Robin Le Normand,3,Spain,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '45:00', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+24921,Martín Zubimendi Ibáñez,Martín Zubimendi,18,Spain,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30486,Pedro González López,Pedri,20,Spain,[],[]
+32185,Alejandro Remiro Gargallo,Álex Remiro,13,Spain,[],[]
+41115,Alejandro Baena Rodríguez,Álex Baena,15,Spain,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '83:39', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+41542,Daniel Vivian Moreno,Dani Vivian,5,Spain,"[{'time': '89:43', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+68574,Nicholas Williams Arthuer,Nico Williams,17,Spain,[],[]
+143864,Fermin Lopez Marin,Fermín López,25,Spain,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '61:13', 'to': '61:50', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '61:50', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+316046,Lamine Yamal Nasraoui Ebana,Lamine Yamal,19,Spain,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '70:41', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"

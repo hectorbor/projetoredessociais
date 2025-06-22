@@ -1,0 +1,26 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3205,Kyle Walker,,2,England,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3233,Raheem Sterling,Raheem Sterling,10,England,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '78:51', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3244,John Stones,,5,England,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '97:04', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+3308,Kieran Trippier,,12,England,[],[]
+3318,Marcus Rashford,,11,England,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '84:28', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3336,Harry Maguire,,6,England,"[{'time': '88:42', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3382,Luke Shaw,,3,England,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3468,Jordan Pickford,,1,England,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3474,Nick Pope,,13,England,[],[]
+3532,Jordan Brian Henderson,Jordan Henderson,8,England,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '78:48', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3616,Callum Wilson,,24,England,[],[]
+3664,Trent Alexander-Arnold,,18,England,[],[]
+3943,Declan Rice,,4,England,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': '97:21', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 3, 'position': 'Right Center Back', 'from': '97:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+4354,Philip Foden,,20,England,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '84:28', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+4706,Kalvin Phillips,,14,England,[],[]
+7843,Mason Mount,,19,England,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '78:48', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+9638,Jack Grealish,,7,England,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '97:04', 'to': '97:21', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '97:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+9905,James Maddison,,25,England,[],[]
+9928,Conor Coady,,16,England,[],[]
+10955,Harry Kane,,9,England,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10956,Eric Dier,,15,England,[],[]
+22084,Bukayo Saka,,17,England,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '78:51', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22783,Aaron Ramsdale,,23,England,[],[]
+29399,Conor Gallagher,,26,England,[],[]
+30714,Jude Bellingham,,22,England,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '97:21', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '97:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"

@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3711,Martin Dúbravka,,1,Slovakia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4152,Marek Rodák,,12,Slovakia,[],[]
+6798,Stanislav Lobotka,,22,Slovakia,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6990,Milan Škriniar,,14,Slovakia,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7975,Lukáš Haraslín,,17,Slovakia,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '66:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8422,Ľubomír Tupta,,10,Slovakia,[],[]
+8967,Ondrej Duda,,8,Slovakia,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '59:23', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8976,Vernon De Marco Morlacchi,Vernon De Marco,15,Slovakia,[],[]
+9722,Peter Pekarík,,2,Slovakia,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '46:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 2, 'position': 'Right Back', 'from': '46:29', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+10919,Juraj Kucka,,19,Slovakia,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+11383,László Bénes,,11,Slovakia,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '59:23', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+15546,Matúš Bero,,21,Slovakia,[],[]
+16041,Patrik Hrošovský,,13,Slovakia,[],[]
+16298,Denis Vavro,,3,Slovakia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16879,Dávid Hancko,,16,Slovakia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '62:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 6, 'position': 'Left Back', 'from': '63:47', 'to': '66:40', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Injury)'}]"
+20043,Norbert Gyömbér,,6,Slovakia,[],[]
+28032,Ivan Schranz,,26,Slovakia,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '85:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+34904,Róbert Boženík,,9,Slovakia,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '59:33', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+35653,Tomáš Suslov,,7,Slovakia,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '66:35', 'to': '77:14', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Player Off'}, {'position_id': 21, 'position': 'Left Wing', 'from': '77:29', 'to': '86:31', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '86:31', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+41601,Henrich Ravas,,23,Slovakia,[],[]
+43976,David Strelec,,18,Slovakia,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '59:33', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+44167,Dávid Ďuriš,,20,Slovakia,[],[]
+44336,Sebastián Kóša,,25,Slovakia,[],[]
+52026,Tomáš Rigo,,5,Slovakia,[],[]
+85063,Adam Obert,,4,Slovakia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '66:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Final Whistle'}]"
+163610,Leo Sauer,,24,Slovakia,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '85:40', 'to': '86:31', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '86:31', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"

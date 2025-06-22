@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3063,Danilo Luiz da Silva,Danilo,2,Brazil,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3067,Ederson Santana de Moraes,Ederson Moraes,23,Brazil,[],[]
+3202,Gabriel Fernando de Jesus,Gabriel Jesus,18,Brazil,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '78:19', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3247,Fábio Henrique Tavares,Fabinho,15,Brazil,[],[]
+3280,Richarlison de Andrade,Richarlison,9,Brazil,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '78:19', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3295,Thiago Emiliano da Silva,Thiago Silva,3,Brazil,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4320,Neymar da Silva Santos Junior,Neymar,10,Brazil,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '79:09', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Injury)'}]"
+4324,Daniel Alves da Silva,Dani Alves,13,Brazil,[],[]
+4372,Marcos Aoás Corrêa,Marquinhos,4,Brazil,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5539,Carlos Henrique Casimiro,Casemiro,5,Brazil,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5547,Alisson Ramsés Becker,Alisson,1,Brazil,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6945,Alex Sandro Lobo Silva,Alex Sandro,6,Brazil,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+9904,Frederico Rodrigues Santos,Fred,8,Brazil,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '74:48', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+10595,Raphael Dias Belloli,Raphinha,11,Brazil,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '86:54', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+11183,Alex Nicolao Telles,Alex Telles,16,Brazil,[],[]
+11493,Gleison Bremer Silva Nascimento,Bremer,24,Brazil,[],[]
+13620,Éder Gabriel Militão,Éder Militão,14,Brazil,[],[]
+18395,Vinícius José Paixão de Oliveira Júnior,Vinícius Júnior,20,Brazil,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '75:12', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+22600,Lucas Tolentino Coelho de Lima,Lucas Paquetá,7,Brazil,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '74:48', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+25101,Weverton Pereira da Silva,Wéverton,12,Brazil,[],[]
+25104,Rodrygo Silva de Goes,Rodrygo,21,Brazil,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '75:12', 'to': '79:23', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '79:23', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+25142,Bruno Guimarães Rodriguez Moura,Bruno Guimarães,17,Brazil,[],[]
+25154,Éverton Augusto de Barros Ribeiro,Éverton Ribeiro,22,Brazil,[],[]
+25305,Pedro Guilherme Abreu dos Santos,Pedro,25,Brazil,[],[]
+25363,Antony Matheus dos Santos,Antony,19,Brazil,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '79:09', 'to': '79:23', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Injury)', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '79:23', 'to': '86:59', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '86:59', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+29976,Gabriel Teodoro Martinelli Silva,Gabriel Martinelli,26,Brazil,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '86:54', 'to': '86:59', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '86:59', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"

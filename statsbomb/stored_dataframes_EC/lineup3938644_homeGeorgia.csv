@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+7087,Saba Lobzhanidze,Saba Lobjanidze,23,Georgia,[],[]
+7655,Lasha Dvali,,3,Georgia,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7839,Guram Kashia,,4,Georgia,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+11335,Otar Kiteishvili,,17,Georgia,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16005,Solomon Kverkvelia,Saba Kverkvelia,5,Georgia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '75:51', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+22242,Heorhii Tsitaishvili,Georgiy Tsitaishvili,21,Georgia,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '62:42', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+23272,Giorgi Loria,,1,Georgia,[],[]
+23646,Giorgi Chakvetadze,,10,Georgia,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '80:30', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+24284,Giorgi Kvilitaia,,11,Georgia,[],[]
+25036,Otar Kakabadze,,2,Georgia,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '68:35', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 7, 'position': 'Right Wing Back', 'from': '68:52', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Player On', 'end_reason': 'Final Whistle'}]"
+31707,Levan Shengelia,,19,Georgia,[],[]
+33234,Georges Mikautadze,,22,Georgia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+38225,Jemal Tabidze,Jimmy Tabidze,24,Georgia,[],[]
+38229,Khvicha Kvaratskhelia,Kvara,7,Georgia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': '40:45', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 24, 'position': 'Left Center Forward', 'from': '41:01', 'to': '81:05', 'from_period': 1, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+41202,Giorgi Kochorashvili,,6,Georgia,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+44183,Zuriko Davitashvili,Zurab Davitashvili,9,Georgia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '81:05', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+46802,Nika Kvekveskiri,,16,Georgia,[],[]
+48178,Luka Lochoshvili,,14,Georgia,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '61:06', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '61:16', 'to': '62:42', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+102371,Giorgi Mamardashvili,,25,Georgia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+102372,Budu Zivzivadze,,8,Georgia,[],[]
+135844,Sandro Altunashvili,,18,Georgia,[],[]
+158014,Luka Gugeshashvili,,12,Georgia,[],[]
+264017,Anzor Mekvabishvili,,20,Georgia,"[{'time': '84:05', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '80:30', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+348086,Giorgi Gocholeishvili,,13,Georgia,[],[]
+390000,Gabriel Sigua,,26,Georgia,[],[]
+398886,Giorgi Gvelesiani,,15,Georgia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '75:51', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

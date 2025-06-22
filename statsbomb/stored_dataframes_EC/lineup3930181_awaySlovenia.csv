@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+6378,Jan Oblak,,1,Slovenia,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6941,Jasmin Kurtič,,14,Slovenia,[],[]
+7139,Josip Iličić,,26,Slovenia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '74:52', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+8662,Vid Belec,,12,Slovenia,[],[]
+10987,Sandi Lovric,,8,Slovenia,[],[]
+11416,Jon Gorenc Stankovič,Jon Gorenc-Stankovic,5,Slovenia,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '84:50', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+15896,Timi Elšnik,,10,Slovenia,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16047,Jaka Bijol,,6,Slovenia,"[{'time': '71:47', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16510,Benjamin Verbič,,7,Slovenia,[],[]
+16528,Petar Stojanović,,20,Slovenia,[],"[{'position_id': 12, 'position': 'Right Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+24109,Žan Celar,,19,Slovenia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '85:38', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+28211,Erik Janža,,13,Slovenia,"[{'time': '21:48', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '89:58', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+30940,Jure Balkovec,,3,Slovenia,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '89:58', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+31089,Jan Mlakar,,17,Slovenia,[],"[{'position_id': 16, 'position': 'Left Midfield', 'from': '00:00', 'to': '84:50', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+31866,Andraž Šporar,,9,Slovenia,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': '58:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '58:32', 'to': '85:38', 'from_period': 2, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Substitution - Off (Tactical)'}]"
+31894,Miha Blažič,,4,Slovenia,[],[]
+31968,Adam Gnezda Čerin,,22,Slovenia,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+38759,Benjamin Šeško,,11,Slovenia,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': '74:52', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+101806,David Brekalo,,23,Slovenia,[],[]
+101807,Igor Vekič,,16,Slovenia,[],[]
+101810,Tomi Horvat,,15,Slovenia,[],[]
+137487,Žan Karničnik,,2,Slovenia,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+205932,Vanja Drkušić,,21,Slovenia,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+290289,Žan Vipotnik,,18,Slovenia,[],[]
+293377,Nino Žugelj,,24,Slovenia,[],[]
+404312,Adrian Zeljković,,25,Slovenia,[],[]

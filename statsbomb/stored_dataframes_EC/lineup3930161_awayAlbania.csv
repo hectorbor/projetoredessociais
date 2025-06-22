@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3378,Iván Balliu Campeny,Iván Balliu,2,Albania,[],[]
+6991,Etrit Berisha,,1,Albania,[],[]
+7031,Elseid Hysaj,,4,Albania,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7108,Berat Djimsiti,,6,Albania,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7531,Qazim Laçi,,14,Albania,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '67:53', 'to': '67:58', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '67:58', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+7789,Thomas Strakosha,,23,Albania,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8291,Arlind Afrim Ajeti,,5,Albania,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+9893,Klaus Gjasula,,8,Albania,[],[]
+10745,Amir Abrashi,,22,Albania,[],[]
+23987,Rey Manaj,,7,Albania,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '75:29', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+24438,Ylber Ramadani,,20,Albania,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+29168,Ardian Ismajli,,18,Albania,[],[]
+29531,Taulant Sulejmanov,Taulant Seferi,15,Albania,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '67:53', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+30740,Marash Kumbulla,,24,Albania,[],[]
+32030,Nedim Bajrami,,10,Albania,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '86:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+32691,Elhan Kastrati,,12,Albania,[],[]
+36885,Armando Broja,,11,Albania,"[{'time': '50:59', 'card_type': 'Yellow Card', 'reason': 'Bad Behaviour', 'period': 2}]","[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '75:29', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+37066,Enea Mihaj,,13,Albania,[],[]
+41186,Jasir Asani,,9,Albania,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '67:37', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+43105,Naser Aliji,,25,Albania,[],[]
+49097,Mario Mitaj,,3,Albania,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+54140,Mirlind Daku,,19,Kosovo,[],[]
+57303,Kristjan Asllani,,21,Albania,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+92611,Ernest Muçi,,17,Albania,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '86:01', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+133698,Arbër Hoxha,,26,Kosovo,"[{'time': '73:50', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 17, 'position': 'Right Wing', 'from': '67:37', 'to': '67:58', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '67:58', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+142800,Medon Berisha,,16,Kosovo,[],[]

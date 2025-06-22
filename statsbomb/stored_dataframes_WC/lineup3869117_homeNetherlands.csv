@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2988,Memphis Depay,,10,Netherlands,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': '82:01', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3264,Vincent Janssen,,18,Netherlands,[],[]
+3306,Nathan Aké,,5,Netherlands,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': '92:55', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3311,Daley Blind,,17,Netherlands,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3669,Virgil van Dijk,,4,Netherlands,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4318,Davy Klaassen,,14,Netherlands,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+6994,Marten de Roon,,15,Netherlands,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '45:00', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+7745,Steven Berghuis,,11,Netherlands,[],[]
+7787,Stefan de Vrij,,6,Netherlands,[],[]
+7829,Wout Weghorst,,19,Netherlands,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '92:55', 'to': '93:37', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 24, 'position': 'Left Center Forward', 'from': '93:37', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+7838,Remko Pasveer,,1,Netherlands,[],[]
+7891,Teun Koopmeiners,,20,Netherlands,"[{'time': '59:24', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '45:00', 'to': '45:53', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '45:53', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8069,Matthijs de Ligt,,3,Netherlands,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '92:55', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+8118,Frenkie de Jong,,21,Netherlands,"[{'time': '86:34', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8124,Tyrell Malacia,,16,Netherlands,[],[]
+8125,Denzel Dumfries,,22,Netherlands,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8259,Steven Bergwijn,,7,Netherlands,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '45:00', 'to': '45:53', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '45:53', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8326,Andries Noppert,,23,Netherlands,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+16185,Justin Bijlow,,13,Netherlands,[],[]
+20033,Luuk de Jong,,9,Netherlands,[],[]
+20750,Cody Mathès Gakpo,Cody Gakpo,8,Netherlands,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': '45:53', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '45:53', 'to': '92:55', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+21547,Noa Lang,,12,Netherlands,[],[]
+21809,Jurriën David Norman Timber,Jurriën Timber,2,Netherlands,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+21879,Kenneth Taylor,,24,Netherlands,[],[]
+32712,Jeremie Frimpong,,26,Netherlands,[],[]
+39167,Xavi Simons,,25,Netherlands,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '82:01', 'to': '93:37', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '93:37', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"

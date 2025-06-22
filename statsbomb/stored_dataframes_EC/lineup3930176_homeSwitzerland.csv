@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3500,Granit Xhaka,,10,Switzerland,"[{'time': '65:55', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3533,Xherdan Shaqiri,,23,Switzerland,[],[]
+5537,Fabian Lukas Schär,Fabian Schär,22,Switzerland,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5538,Denis Lemi Zakaria Lako Lado,Denis Zakaria,6,Switzerland,[],[]
+5544,Ricardo Iván Rodríguez Araya,Ricardo Rodríguez,13,Switzerland,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5545,Breel-Donald Embolo,Breel Embolo,7,Switzerland,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '65:14', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5548,Steven Zuber,,14,Switzerland,[],[]
+5549,Manuel Obafemi Akanji,Manuel Akanji,5,Switzerland,[],"[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5550,Yann Sommer,,1,Switzerland,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+6983,Remo Freuler,,8,Switzerland,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7796,Silvan Widmer,,3,Switzerland,"[{'time': '80:03', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8814,Nico Elvedi,,4,Switzerland,[],[]
+11457,Vincent Sierro,,16,Switzerland,[],[]
+11467,Yvon Landry Mvogo,Yvon Mvogo,12,Switzerland,[],[]
+12326,Renato Steffen,,11,Switzerland,[],[]
+16016,Michel Aebischer,,20,Switzerland,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+17974,Gregor Kobel,,21,Switzerland,[],[]
+29006,Noah Okafor,,9,Switzerland,[],[]
+29227,Leonidas Stergiou,,2,Switzerland,[],[]
+29353,Cédric Zesiger,,15,Switzerland,[],[]
+30401,Ruben Vargas,,17,Switzerland,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '65:14', 'to': '65:19', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '65:19', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+41655,Ardon Jashari,,24,Switzerland,[],[]
+45190,Dan Ndoye,,19,Switzerland,"[{'time': '24:34', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '00:00', 'to': '64:30', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+48335,Mohamed Zeki Amdouni,Mohamed Amdouni,25,Switzerland,[],"[{'position_id': 20, 'position': 'Left Attacking Midfield', 'from': '64:30', 'to': '65:19', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '65:19', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+49007,Kwadwo Duah,,18,Switzerland,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '65:14', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+50436,Fabian Rieder,,26,Switzerland,[],"[{'position_id': 18, 'position': 'Right Attacking Midfield', 'from': '00:00', 'to': '65:14', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

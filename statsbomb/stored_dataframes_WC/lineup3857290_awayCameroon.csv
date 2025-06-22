@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3141,André-Frank Zambo Anguissa,André Zambo Anguissa,8,Cameroon,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3499,Jean-Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting,13,Cameroon,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '73:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3551,Karl Brillant Toko Ekambi,Karl Toko Ekambi,12,Cameroon,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '73:27', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+3639,Georges-Kévin Nkoudou Mbida,Georges-Kevin N'Koudou,7,Cameroon,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '73:27', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+4935,Bryan Mbeumo,,20,Cameroon,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '80:44', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+7426,Jean-Charles Castelletto,,21,Cameroon,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,Nicolas N'Koulou,3,Cameroon,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+7551,Enzo Ebosse,,24,Cameroon,[],[]
+8064,André Onana,,23,Cameroon,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8591,Samuel Yves Oum Gwet,Samuel Gouet,14,Cameroon,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+10530,Jules Olivier Ntcham,Olivier Ntcham,22,Cameroon,[],[]
+11174,Vincent Paté Aboubakar,Vincent Aboubakar,10,Cameroon,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '73:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+12623,Pierre Kunde Malong,Pierre Kunde,15,Cameroon,[],[]
+13454,Nouhou Tolo,,25,Cameroon,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+15326,Devis Rogers Epassy Mboka,Devis Epassy,16,Cameroon,[],[]
+16014,Jean Pierre Nsamé,,9,Cameroon,[],[]
+16015,Nicolas Moumi Ngamaleu,Moumi Ngamaleu,6,Cameroon,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '80:44', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+16346,Ngoran Suiru Fai Collins,Collins Fai,19,Cameroon,"[{'time': '35:21', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+21456,Olivier Mbaissidara Mbaizo,Olivier Mbaizo,17,Cameroon,[],[]
+28966,Gaël Ondoua,,5,Cameroon,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '67:53', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+30016,Martin Hongla Yma II,,18,Cameroon,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '67:53', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+33813,Jerome Ngom Mbekeli,Jerome Mbekeli,2,Cameroon,[],[]
+44842,Simon Brady Ngapandouetnbu,,1,Cameroon,[],[]
+46903,Christian Mougang Bassogog,Christian Bassogog,11,Cameroon,[],[]
+74588,Christopher Wooh,,4,Cameroon,[],[]
+349913,Souaibou Marou,,26,Cameroon,[],[]

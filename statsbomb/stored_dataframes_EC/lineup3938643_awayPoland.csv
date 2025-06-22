@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+4626,Jan Bednarek,,5,Poland,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+4664,Sebastian Szymański,,20,Poland,[],"[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '00:00', 'to': '18:49', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '18:49', 'to': '33:21', 'from_period': 1, 'to_period': 1, 'start_reason': 'Tactical Shift', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '33:21', 'to': '67:29', 'from_period': 1, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+5660,Piotr Zieliński,,10,Poland,[],"[{'position_id': 15, 'position': 'Left Center Midfield', 'from': '00:00', 'to': '18:49', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '18:49', 'to': '33:21', 'from_period': 1, 'to_period': 1, 'start_reason': 'Tactical Shift', 'end_reason': 'Tactical Shift'}, {'position_id': 15, 'position': 'Left Center Midfield', 'from': '33:21', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+5667,Kamil Grosicki,,11,Poland,[],[]
+5668,Robert Lewandowski,,9,Poland,[],"[{'position_id': 24, 'position': 'Left Center Forward', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5669,Wojciech Szczęsny,,1,Poland,[],[]
+5673,Bartosz Bereszyński,,18,Poland,[],[]
+7654,Sebastian Walukiewicz,,4,Poland,[],[]
+7663,Adam Buksa,,16,Poland,[],[]
+7979,Przemysław Frankowski,,19,Poland,[],"[{'position_id': 7, 'position': 'Right Wing Back', 'from': '00:00', 'to': '68:21', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '68:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+7982,Taras Wiktorowicz Romanczuk,,13,Poland,[],[]
+8289,Bartosz Salamon,,2,Poland,[],[]
+8714,Damian Szymański,,17,Poland,[],[]
+8737,Tymoteusz Puchacz,,15,Poland,[],[]
+8836,Karol Świderski,,7,Poland,"[{'time': '91:55', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 13, 'position': 'Right Center Midfield', 'from': '67:29', 'to': '68:21', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '68:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+11508,Łukasz Skorupski,,12,Poland,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+12493,Krzysztof Piątek,,23,Poland,[],[]
+15859,Bartosz Slisz,,24,Poland,[],[]
+20841,Jakub Piotrowski,,6,Poland,[],[]
+28453,Michał Skóraś,,25,Poland,[],"[{'position_id': 8, 'position': 'Left Wing Back', 'from': '67:29', 'to': '68:21', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 7, 'position': 'Right Wing Back', 'from': '68:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+29480,Jakub Moder,,8,Poland,[],"[{'position_id': 10, 'position': 'Center Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+30739,Paweł Dawidowicz,,3,Poland,"[{'time': '88:17', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 4, 'position': 'Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+31030,Marcin Bulka,,22,Poland,[],[]
+33680,Kacper Urbanski,,26,Poland,[],"[{'position_id': 22, 'position': 'Right Center Forward', 'from': '00:00', 'to': '36:29', 'from_period': 1, 'to_period': 1, 'start_reason': 'Starting XI', 'end_reason': 'Player Off'}, {'position_id': 22, 'position': 'Right Center Forward', 'from': '36:50', 'to': '68:21', 'from_period': 1, 'to_period': 2, 'start_reason': 'Player On', 'end_reason': 'Tactical Shift'}, {'position_id': 13, 'position': 'Right Center Midfield', 'from': '68:21', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+44166,Jakub Piotr Kiwior,,14,Poland,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+50502,Nicola Zalewski,,21,Poland,"[{'time': '23:25', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 8, 'position': 'Left Wing Back', 'from': '00:00', 'to': '67:29', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"

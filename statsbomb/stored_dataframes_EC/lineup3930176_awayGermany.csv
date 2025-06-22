@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+3053,Leroy Sané,,19,Germany,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '75:07', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+3097,Pascal Groß,,5,Germany,[],[]
+3167,Antonio Rüdiger,,2,Germany,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3493,Emre Can,,25,Germany,[],[]
+5562,Thomas Müller,,13,Germany,[],[]
+5570,Manuel Neuer,,1,Germany,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5574,Toni Kroos,,8,Germany,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+5579,Joshua Kimmich,,6,Germany,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8211,Benjamin Henrichs,,20,Germany,[],[]
+8221,Jonathan Tah,,4,Germany,"[{'time': '37:07', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 1}]","[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': '60:34', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+8393,Oliver Baumann,,12,Germany,[],[]
+8538,Waldemar Anton,,16,Germany,[],[]
+8546,Niclas Füllkrug,,9,Germany,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '75:22', 'to': '75:46', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 23, 'position': 'Center Forward', 'from': '75:46', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+8966,Kai Havertz,,7,Germany,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '75:46', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '75:46', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+9195,Robert Andrich,,23,Germany,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '65:14', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+10287,İlkay Gündoğan,,21,Germany,[],"[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '65:17', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '65:17', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+12034,David Raum,,3,Germany,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '60:40', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+12407,Maximilian Mittelstädt,,18,Germany,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '60:40', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+13294,Robin Koch,,24,Germany,[],[]
+20055,Marc-André ter Stegen,Marc-André ter Stegen,22,Germany,[],[]
+23614,Chris Führich,,11,Germany,[],[]
+24118,Nico Schlotterbeck,,15,Germany,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '60:34', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+35242,Maximilian Beier,,14,Germany,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '65:14', 'to': '65:17', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '65:17', 'to': '75:46', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '75:46', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+39565,Jamal Musiala,,10,Germany,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '53:32', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 21, 'position': 'Left Wing', 'from': '53:32', 'to': '75:22', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+40724,Florian Wirtz,,17,Germany,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': '53:32', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '53:32', 'to': '75:07', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+131243,Deniz Undav,,26,Germany,[],[]

@@ -1,0 +1,6 @@
+import numpy as np
+
+np.savetxt('matrix.csv', matrix, delimiter=',')
+
+# Later...
+loaded_matrix = np.loadtxt('matrix.csv', delimiter=',')

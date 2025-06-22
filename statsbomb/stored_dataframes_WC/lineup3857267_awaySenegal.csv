@@ -1,0 +1,27 @@
+player_id,player_name,player_nickname,jersey_number,country,cards,positions
+2941,Ismaïla Sarr,,18,Senegal,[],"[{'position_id': 21, 'position': 'Left Wing', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+3404,Youssouf Sabaly,,21,Senegal,[],"[{'position_id': 2, 'position': 'Right Back', 'from': '00:00', 'to': '95:08', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 7, 'position': 'Right Wing Back', 'from': '95:08', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3436,Idrissa Gana Gueye,Idrissa Gueye,5,Senegal,"[{'time': '65:30', 'card_type': 'Yellow Card', 'reason': 'Foul Committed', 'period': 2}]","[{'position_id': 19, 'position': 'Center Attacking Midfield', 'from': '00:00', 'to': '95:08', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '95:08', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+3675,Fodé Ballo Touré,,12,Senegal,[],[]
+3684,Cheikhou Kouyaté,,8,Senegal,[],[]
+4506,Nampalys Mendy,,6,Senegal,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '73:51', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Final Whistle'}]"
+5675,Kalidou Koulibaly,,3,Senegal,[],"[{'position_id': 3, 'position': 'Right Center Back', 'from': '00:00', 'to': '95:08', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 4, 'position': 'Center Back', 'from': '95:08', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+7379,Edouard Mendy,,16,Senegal,[],"[{'position_id': 1, 'position': 'Goalkeeper', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8553,Abdou Diallo,,22,Senegal,[],"[{'position_id': 5, 'position': 'Left Center Back', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+8870,Alfred Benjamin Gomis,Alfred Gomis,23,Senegal,[],[]
+10603,Mamadou Loum N''Diaye,Mamadou N'Diaye,25,Senegal,[],[]
+13314,Famara Diedhiou,Famara Diédhiou,19,Senegal,[],[]
+15970,Pape Abou Cissé,,4,Senegal,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '94:43', 'to': '95:08', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 3, 'position': 'Right Center Back', 'from': '95:08', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+17456,Timothy Dieng,Seny Dieng,1,Senegal,[],[]
+20611,Boulaye Dia,,9,Senegal,[],"[{'position_id': 23, 'position': 'Center Forward', 'from': '00:00', 'to': '74:18', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 17, 'position': 'Right Wing', 'from': '74:18', 'to': '94:43', 'from_period': 2, 'to_period': 2, 'start_reason': 'Tactical Shift', 'end_reason': 'Substitution - Off (Tactical)'}]"
+20758,Krépin Diatta,Krépin Diatta,15,Senegal,[],[]
+21026,Pape Gueye,,26,Senegal,[],"[{'position_id': 11, 'position': 'Left Defensive Midfield', 'from': '00:00', 'to': None, 'from_period': 1, 'to_period': None, 'start_reason': 'Starting XI', 'end_reason': 'Final Whistle'}]"
+31751,Pathé Ismaël Ciss,,11,Senegal,[],"[{'position_id': 9, 'position': 'Right Defensive Midfield', 'from': '00:00', 'to': '73:51', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+32915,Ismail Jakobs,,14,Senegal,[],"[{'position_id': 6, 'position': 'Left Back', 'from': '00:00', 'to': '95:08', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Tactical Shift'}, {'position_id': 8, 'position': 'Left Wing Back', 'from': '95:08', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+34893,Moustapha Name,,24,Senegal,[],[]
+39595,Formose Mendy,,2,Senegal,[],[]
+50497,Nicolas Jackson,,7,Senegal,[],[]
+50498,Pape Matar Sarr,Pape Sarr,17,Senegal,[],[]
+80484,Iliman Ndiaye,,13,Senegal,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '00:00', 'to': '74:03', 'from_period': 1, 'to_period': 2, 'start_reason': 'Starting XI', 'end_reason': 'Substitution - Off (Tactical)'}]"
+88123,Cheikh Ahmadou Bamba Mbacke Dieng,Bamba Dieng,20,Senegal,[],"[{'position_id': 17, 'position': 'Right Wing', 'from': '74:03', 'to': '74:18', 'from_period': 2, 'to_period': 2, 'start_reason': 'Substitution - On (Tactical)', 'end_reason': 'Tactical Shift'}, {'position_id': 23, 'position': 'Center Forward', 'from': '74:18', 'to': None, 'from_period': 2, 'to_period': None, 'start_reason': 'Tactical Shift', 'end_reason': 'Final Whistle'}]"
+312414,Moussa N''Diaye,,10,Senegal,[],[]
