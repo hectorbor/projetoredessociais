@@ -37,6 +37,13 @@ class Start:
         self.name = name
         self.age = age
 
+def sum_matrix(matrix):
+    total = 0
+    for row in matrix:
+        for value in row:
+            total += value
+    return total
+
 def matrixGenerator(path):
 
     file_path = path
@@ -133,7 +140,16 @@ def matrixGenerator(path):
     # for i, item in enumerate(team2.players):
     #     print(str(item.playerid)+" "+str(item.nodeid))
 
+    strangecount1=0
+    strangecount2=0
+    loopcount=0
+    noda=0
+    team1count=0
+    team2count=0
+    addcounter1=0
+
     for index, row in passdf.iterrows():
+        loopcount+=1
         minutesaux=int(row['minute'])%60
         hoursaux=int(row['minute'])//60
         secondsaux=int(row['second'])
@@ -180,7 +196,9 @@ def matrixGenerator(path):
 
         if(pd.isna(row['pass_outcome'])):
             #print("id equipo 1: "+str(team1.teamid)+" id actual: "+str(currentteamid))
+            noda+=1
             if(team1.teamid==currentteamid):
+                team1count+=1
                 indexplayer=-1
                 cont=0
                 for item in team1.players:
@@ -197,9 +215,17 @@ def matrixGenerator(path):
                         break
                     cont+=1
                 #print("ocurre1 con indexplayer="+str(indexplayer)+" "+str(team1.players[indexplayer].nodeid)+" y indexreceiver="+str(indexreceiver)+" con jugador: "+str(int(row['player_id']))+" y receptor: "+str(int(row['pass_recipient_id'])))
-                if(indexplayer >=0 and indexreceiver >= 0):
+                if(indexplayer ==-1 and indexreceiver == -1):
+                    strangecount1+=1
+                elif(indexplayer ==-1 or indexreceiver == -1):
+                    strangecount1+=1
+                elif(indexplayer >=0 and indexreceiver >= 0):
                     currentmatrix[(team1.players[indexplayer].nodeid)-1][(team1.players[indexreceiver].nodeid)-1]+=1
+                    addcounter1+=1
+                else:
+                    print("gotya")
             else:
+                team2count+=1
                 indexplayer=-1
                 #print(team2.players[0].playerid)
                 cont=0
@@ -217,10 +243,24 @@ def matrixGenerator(path):
                         break  
                     cont+=1
                 #print("ocurre2con indexplayer="+str(indexplayer)+" "+str(team2.players[indexplayer].nodeid)+" y indexreceiver="+str(indexreceiver)+" con jugador: "+str(int(row['player_id'])))
+                if(indexplayer ==-1 and indexreceiver == -1):
+                    strangecount2+=1
+                elif(indexplayer ==-1 or indexreceiver == -1):
+                    strangecount2+=1
                 if(indexplayer >=0 and indexreceiver >= 0):
                     currentmatrix[(team2.players[indexplayer].nodeid)-1][(team2.players[indexreceiver].nodeid)-1]+=1
-
     #print(team2.matrices[2])
+    
+    if(team1.teamid==currentteamid):
+        team1.matrices.append(currentmatrix)
+        currentmatrix = [[0 for _ in range(11)] for _ in range(11)]
+        currentteamid=int(row['team_id'])
+        currentpossession=int(row['possession'])
+    else:
+        team2.matrices.append(currentmatrix)
+        currentmatrix = [[0 for _ in range(11)] for _ in range(11)]
+        currentteamid=int(row['team_id'])
+        currentpossession=int(row['possession'])
 
     resgraph1= [[0 for _ in range(11)] for _ in range(11)]
 
@@ -229,12 +269,34 @@ def matrixGenerator(path):
             for j in range(11):
                 resgraph1[i][j] += matrix[i][j]
 
+    # print(len(passdf))
+
+    # print(loopcount)
+
+    # print(noda)
+
+    # print(team1count)
+
+    # print(team2count)
+
+    # nopassdf=passdf[passdf['pass_outcome'].isna()]
+
+    # print(len(nopassdf))
+
+    # print(strangecount1)
+
+    # print(strangecount2)
+
+    print(sum_matrix(resgraph1))
+
     resgraph2= [[0 for _ in range(11)] for _ in range(11)]
 
     for matrix in team2.matrices:
         for i in range(11):
             for j in range(11):
                 resgraph2[i][j] += matrix[i][j]
+
+    print(sum_matrix(resgraph2))
 
     return team1.team,team2.team,resgraph1,resgraph2
     # print(exgrapM)
@@ -293,5 +355,11 @@ def matrixGenerator(path):
     # plt.axis('off')
     # plt.show()
 
+def main():
+    path_to_file='/home/hector/Desktop/TrabalhoRedesSociais/projetoredessociais/statsbomb/stored_dataframes_CA/game3939969.csv'
+    matrixGenerator(path_to_file)
+    # Your main code logic here
 
+if __name__ == "__main__":
+    main()
 
